@@ -9,4 +9,5 @@ public class Tervitus {
         tervitusTekst = "tere";
         tervita();
     }
+
 }
